@@ -2,7 +2,6 @@
 
 # Task 1
 
-
 # Initial menu
 restaurant_menu = {
     "Starters": {"Soup": 5.99, "Bruschetta": 6.50},
